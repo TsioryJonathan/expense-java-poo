@@ -12,7 +12,7 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Expense_DAO_Test {
+public class expenseDAOTest {
     RefundableExpense refundableExpenseNotRefunded;
     RefundableExpense refundableExpenseRefunded;
 
